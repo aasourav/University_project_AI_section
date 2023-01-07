@@ -348,15 +348,15 @@
         "sympthom":"breathlessness, sweating, chest_pain"
     },
     {
-        "disease":"Vascular specalist",
+        "disease":"Vascular_specalist",
         "sympthom":"fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf"
     },
     {
-        "disease":"Vascular specalist",
+        "disease":"Vascular_specalist",
         "sympthom":"fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf"
     },
     {
-        "disease":"Vascular specalist",
+        "disease":"Vascular_specalist",
         "sympthom":"cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf"
     },
     {
