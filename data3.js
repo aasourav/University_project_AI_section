@@ -24,15 +24,15 @@
         "sympthom":"continuous_sneezing, chills, watering_from_eyes"
     },
     {
-        "disease":"GASTROENTROLOGIST",
+        "disease":"Gastroentrologist",
         "sympthom":"stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain"
     },
     {
-        "disease":"GASTROENTROLOGIST",
+        "disease":"Gastroentrologist",
         "sympthom":"stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain"
     },
     {
-        "disease":"GASTROENTROLOGIST",
+        "disease":"Gastroentrologist",
         "sympthom":"stomach_pain, acidity, vomiting, cough, chest_pain"
     },
     {
