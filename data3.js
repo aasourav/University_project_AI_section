@@ -84,15 +84,15 @@
         "sympthom":"muscle_wasting, high_fever, extra_marital_contacts"
     },
     {
-        "disease":"Endocrinologist ",
+        "disease":"Endocrinologist",
         "sympthom":"fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria"
     },
     {
-        "disease":"Endocrinologist ",
+        "disease":"Endocrinologist",
         "sympthom":"fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria"
     },
     {
-        "disease":"Endocrinologist ",
+        "disease":"Endocrinologist",
         "sympthom":"weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria"
     },
     {
@@ -120,15 +120,15 @@
         "sympthom":"fatigue, high_fever, breathlessness, family_history, mucoid_sputum"
     },
     {
-        "disease":"Medicine ",
+        "disease":"Medicine",
         "sympthom":"headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration"
     },
     {
-        "disease":"Medicine ",
+        "disease":"Medicine",
         "sympthom":"chest_pain, dizziness, loss_of_balance, lack_of_concentration"
     },
     {
-        "disease":"Medicine ",
+        "disease":"Medicine",
         "sympthom":"headache, dizziness, loss_of_balance, lack_of_concentration"
     },
     {
